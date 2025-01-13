@@ -48,5 +48,5 @@ public class Zakaznik {
 
 
 
-    public void ZvysProdeje()
+    public void ZvysProdeje(){}
 }
